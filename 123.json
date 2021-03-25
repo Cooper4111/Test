@@ -1,0 +1,105 @@
+{
+    "html": {
+        "type": "attribute",
+        "attribute": "lang",
+        "value": "en"
+    },
+    "title": "Microstock Plus - Analytics",
+    "meta[name='description']": {
+        "type": "attribute",
+        "attribute": "content",
+        "value": "A professional tool that collects and analyzes the microstock portfolio statistics."
+    },
+    "meta[name='keywords']": {
+        "type": "attribute",
+        "attribute": "content",
+        "value": "stock photography, microstock photography, microstock agencies, upload photos to microstock, automatic tagging for microstock content, automatic keywording for microstock content, tagging software, keywording software, content uploading, microstock industry, microstock business, microstock software, tagging, keywording, microstock contributor, sell photos online, keywording tool, tagging tool, microstock service, copy metadata, microstock analytics, analyze microstock trends, microstock trends, vector, illustration, photo, microstock, illustrator, free"
+    },
+    ".lang__head span": {
+        "type": "collision",
+        "value": "EN"
+    },
+    "a[data-scroll='#about']": "About us",
+    "a[data-scroll='#features']": "Benefits",
+    "a[data-scroll='#functions']": "Features",
+    "a[data-scroll='#plans']": "Pricing",
+    "a[data-scroll='#footer']": "Contact us",
+    ".intro__text p": [
+        "Why guess when you can know?",
+		"Analyze your microstock portfolio online! Track the sales and downloads, sort it by date, content, price and other indicators.",
+        "Sort and filter works by any parameter you like: color, similars, session and many others. Make sets of works and compare it with each other. This tool is created by stockers for stockers!"
+		
+    ],
+    ".intro__button": "Sing up",
+    ".about__title": "Your personal analyst",
+    ".about__text p": [
+        "Use illustrative graphs with flexible settings fitting a wide range of time periods and microstock agencies.",
+        "Keep a track of your earnings for today, for a week or for a month. Observe one work, a group of works or all works you have and focus only on the most promising ones!",
+        "You think that’d be all? We’re going to add many other useful features to maximize your profit inside of the Microstock+ ecosystem!"
+    ],
+    ".features__item.complex .features__title": "Cohesion",
+    ".features__item.complex .features__text": "We provide a full set of analyzing tools for any portfolio on any microstock agency.",
+    ".features__item.safe .features__title": "Safety",
+    ".features__item.safe .features__text": "All personal data is available for the account owner only. All passwords are being stored encrypted on the independent secure server which guarantees complete safety for your microstock agency accounts. Thousands of users have been trusting us for 10 years and we never disappoint them!",
+    ".features__item.compact .features__title": "Mobility",
+    ".features__item.compact .features__text": "M+ analytics runs on all devices and operational systems. All you need is an active M+ account and the internet connection.",
+    ".features__item.secure .features__title": "Reliability",
+    ".features__item.secure .features__text": "It’s been more than 10 years since we entered the microstock market. Many people from all over the world enjoy our services!",
+    ".agencies__title": "Supported agencies",
+    ".secuence__title": "How does it work?",
+    ".secuence__item.collect .secuence__subtitle": "1. Data collection",
+    ".secuence__item.collect .secuence__text": "Our service repeatedly scans sales on all microstock agencies you granted an access to and gathers the most relevant data",
+    ".secuence__item.analysis .secuence__subtitle": "2. Analysis",
+    ".secuence__item.analysis .secuence__text": "All collected data is being handled in databases to appear in a more illustrative form",
+    ".secuence__item.appearance .secuence__subtitle": "3. Visualization",
+    ".secuence__item.appearance .secuence__text": "The data is being displayed as graphs that automatically update once every five-ten minutes. You always get the most accurate stats on your sales for both current and past time periods.",
+    ".functions__title": "Why it's so usefull?",
+    ".functions__text.chart .functions__subtitle": "Sales graphs",
+    ".functions__text.chart .functions__text": "Graphs are the best way to display the changes in sales for one, a few or all works. You can choose a particular period from one day to several years and easily evaluate a work potential on different microstock agencies. If you need the accurate numbers just hover a mouse over a graph curve.",
+    ".functions__text.sell .functions__subtitle": "All sales for a certain period",
+    ".functions__text.sell .functions__text p": [
+        "On the main page you can always find the essential information on your sales for today, for a week and how it changed since the last year.",
+        "M+ analytics also offers overall downloads, an average income per download and average income of one file"
+    ],
+    ".functions__text.management .functions__subtitle": "Easy file management",
+    ".functions__text.management .functions__text p": [
+        "Observe all files, its real income on every stock and ammount of downloads.",
+        "In the closest future you’d be able to organize files into sets and track them using M+ analytics tools."
+    ],
+    ".functions__text.statistics .functions__subtitle": "Stats on every file",
+    ".functions__text.statistics .functions__text": "Learn all about your work in one place! Which microstock agencies have accepted it, its content type, size, resolution etc. But the most important part is its own personal sales graph with flexible settings.",
+    ".plans__title": "Plans",
+    ".plans__option": [
+        "All supported agencies",
+        "Any number of files"
+    ],
+    ".plans__cost": "10 EUR/month",
+    ".plans__footnote": "* – This offer is valid during Open Beta only! Payment plans will change after the public release. Supported agencies: Shutterstock, Adobestock, Depositphotos, Pond5, 123RF, Dreamstime, CanStockPhoto",
+	
+    ".contacts__col.products .contacts__title": "Try other products:",
+    ".contacts__col.news .contacts__title": "News and communities:",
+    ".contacts__col.news a[aria-label='Facebook']":{
+        "type": "collision",
+        "value": "Facebook community"
+    },
+    ".contacts__col.news a[aria-label='StockSubmitter chat']":{
+        "type": "collision",
+        "value": "Telegram channel"
+    },
+    ".contacts__col.news a[aria-label='Vkontacte']":{
+        "type": "collision",
+        "value": "VK community"
+    },
+    ".contacts__col.news a[aria-label='Breaking news']":{
+        "type": "collision",
+        "value": "News feed"
+    },
+    ".contacts__col.news a[aria-label='YouTube']":{
+        "type": "collision",
+        "value": "Tutorials on Youtube"
+    },
+    ".contacts__col.communication .contacts__title": "Contact us:",
+    "a[aria-label='Privacy Policy']": "Privacy policy",
+    "a[aria-label='Terms and Conditions']": "Terms and conditions",
+    "a[aria-label='Refund Policy']": "Refund policy"
+}
