@@ -19,87 +19,86 @@
         "type": "collision",
         "value": "EN"
     },
-    "a[data-scroll='#about']": "About us",
+    "a[data-scroll='#about']": "About Us",
     "a[data-scroll='#features']": "Benefits",
     "a[data-scroll='#functions']": "Features",
     "a[data-scroll='#plans']": "Pricing",
-    "a[data-scroll='#footer']": "Contact us",
+    "a[data-scroll='#footer']": "Contact Us",
     ".intro__text p": [
-        "Why guess when you can know?",
-		"Analyze your microstock portfolio online! Track the sales and downloads, sort it by date, content, price and other indicators.",
-        "Sort and filter works by any parameter you like: color, similars, session and many others. Make sets of works and compare it with each other. This tool is created by stockers for stockers!"
-		
+        "Why guessing when you can know?",
+		    "Analyze your microstock portfolio online! Track the sales and downloads, sort it by date, content, price and other indicators.",
+        "Sort and filter your content by any parameter you like: color, similars, session and many others. Make sets and compare them with each other. This tool is created by contributors for contributors!"
     ],
-    ".intro__button": "Sing up",
-    ".about__title": "Your personal analyst",
+    ".intro__button": "Sign Up",
+    ".about__title": "Your Personal Analyst",
     ".about__text p": [
         "Use illustrative graphs with flexible settings fitting a wide range of time periods and microstock agencies.",
-        "Keep a track of your earnings for today, for a week or for a month. Observe one work, a group of works or all works you have and focus only on the most promising ones!",
+        "Keep track of your earnings for today, for a week or for a month. Observe a single file, a set or all the content you have and focus only on the most promising ones!",
         "You think that’d be all? We’re going to add many other useful features to maximize your profit inside of the Microstock+ ecosystem!"
     ],
     ".features__item.complex .features__title": "Cohesion",
     ".features__item.complex .features__text": "We provide a full set of analyzing tools for any portfolio on any microstock agency.",
     ".features__item.safe .features__title": "Safety",
-    ".features__item.safe .features__text": "All personal data is available for the account owner only. All passwords are being stored encrypted on the independent secure server which guarantees complete safety for your microstock agency accounts. Thousands of users have been trusting us for 10 years and we never disappoint them!",
+    ".features__item.safe .features__text": "All personal data is available for the account owner only. All passwords are being stored in an AES-256 encrypted form on a dedicated secure server where they cannot be retrieved from which guarantees complete safety for your microstock agency accounts. Thousands of users have been trusting us for more than 10 years and we have never disappointed them!",
     ".features__item.compact .features__title": "Mobility",
-    ".features__item.compact .features__text": "M+ analytics runs on all devices and operational systems. All you need is an active M+ account and the internet connection.",
+    ".features__item.compact .features__text": "M+ Analytics runs on all devices and operating systems. All you need is an active M+ account and an internet connection.",
     ".features__item.secure .features__title": "Reliability",
-    ".features__item.secure .features__text": "It’s been more than 10 years since we entered the microstock market. Many people from all over the world enjoy our services!",
-    ".agencies__title": "Supported agencies",
-    ".secuence__title": "How does it work?",
+    ".features__item.secure .features__text": "It’s been more than 10 years since we had entered the microstock industry. Microstock contributors from all over the world enjoy and trust our services!",
+    ".agencies__title": "Supported Agencies",
+    ".secuence__title": "How Does It Work?",
     ".secuence__item.collect .secuence__subtitle": "1. Data collection",
-    ".secuence__item.collect .secuence__text": "Our service repeatedly scans sales on all microstock agencies you granted an access to and gathers the most relevant data",
+    ".secuence__item.collect .secuence__text": "Our system repeatedly scans sales on all microstock agencies you have granted it an access to and gathers the most relevant data",
     ".secuence__item.analysis .secuence__subtitle": "2. Analysis",
-    ".secuence__item.analysis .secuence__text": "All collected data is being handled in databases to appear in a more illustrative form",
+    ".secuence__item.analysis .secuence__text": "Collected information is then analyzed and aggregated on our servers to become ready to be represented to you in the most illustrative form",
     ".secuence__item.appearance .secuence__subtitle": "3. Visualization",
-    ".secuence__item.appearance .secuence__text": "The data is being displayed as graphs that automatically update once every five-ten minutes. You always get the most accurate stats on your sales for both current and past time periods.",
-    ".functions__title": "Why it's so usefull?",
+    ".secuence__item.appearance .secuence__text": "The data is being displayed as graphs that automatically update regularly. You always get the most accurate stats of your sales for both current and past time periods.",
+    ".functions__title": "Why is it so useful?",
     ".functions__text.chart .functions__subtitle": "Sales graphs",
-    ".functions__text.chart .functions__text": "Graphs are the best way to display the changes in sales for one, a few or all works. You can choose a particular period from one day to several years and easily evaluate a work potential on different microstock agencies. If you need the accurate numbers just hover a mouse over a graph curve.",
-    ".functions__text.sell .functions__subtitle": "All sales for a certain period",
+    ".functions__text.chart .functions__text": "Graphs are the best way to display the changes in sales of your content. You can choose a particular period from one day to several years and easily evaluate the potential of a file (or a set) on different microstock agencies. If you want to see the exact numbers just hover a mouse over a graph curve.",
+    ".functions__text.sell .functions__subtitle": "Sales for a certain period",
     ".functions__text.sell .functions__text p": [
-        "On the main page you can always find the essential information on your sales for today, for a week and how it changed since the last year.",
-        "M+ analytics also offers overall downloads, an average income per download and average income of one file"
+        "On the main page you can always find the essential information on your sales for today, for the last week and how it changed since the last year.",
+        "M+ Analytics also shows overall downloads, average income per download and average income per file"
     ],
     ".functions__text.management .functions__subtitle": "Easy file management",
     ".functions__text.management .functions__text p": [
-        "Observe all files, its real income on every stock and ammount of downloads.",
-        "In the closest future you’d be able to organize files into sets and track them using M+ analytics tools."
+        "Observe all files, their real sales on every agency and ammount of downloads.",
+        "In the nearest future you will be able to organize files into sets and track them using the M+ Analytics tools."
     ],
-    ".functions__text.statistics .functions__subtitle": "Stats on every file",
-    ".functions__text.statistics .functions__text": "Learn all about your work in one place! Which microstock agencies have accepted it, its content type, size, resolution etc. But the most important part is its own personal sales graph with flexible settings.",
+    ".functions__text.statistics .functions__subtitle": "Stats of every file",
+    ".functions__text.statistics .functions__text": "Learn everything about your content in one place! Which microstock agencies have accepted it, its content type, size, resolution, etc. But the most important part is its own personal sales graph with flexible settings.",
     ".plans__title": "Plans",
     ".plans__option": [
         "All supported agencies",
         "Any number of files"
     ],
     ".plans__cost": "10 EUR/month",
-    ".plans__footnote": "* – This offer is valid during Open Beta only! Payment plans will change after the public release. Supported agencies: Shutterstock, Adobestock, Depositphotos, Pond5, 123RF, Dreamstime, CanStockPhoto",
+    ".plans__footnote": "* – This offer is valid during the Open Beta only! Payment plans are going to be changed after the public release. Currently supported agencies: Shutterstock, Adobestock, Depositphotos, Pond5, 123RF, Dreamstime, CanStockPhoto",
 	
-    ".contacts__col.products .contacts__title": "Try other products:",
-    ".contacts__col.news .contacts__title": "News and communities:",
+    ".contacts__col.products .contacts__title": "Try our other products:",
+    ".contacts__col.news .contacts__title": "News and Communities:",
     ".contacts__col.news a[aria-label='Facebook']":{
         "type": "collision",
-        "value": "Facebook community"
+        "value": "Facebook Community"
     },
     ".contacts__col.news a[aria-label='StockSubmitter chat']":{
         "type": "collision",
-        "value": "Telegram channel"
+        "value": "Telegram Channel"
     },
     ".contacts__col.news a[aria-label='Vkontacte']":{
         "type": "collision",
-        "value": "VK community"
+        "value": "VK Community"
     },
     ".contacts__col.news a[aria-label='Breaking news']":{
         "type": "collision",
-        "value": "News feed"
+        "value": "News Feed"
     },
     ".contacts__col.news a[aria-label='YouTube']":{
         "type": "collision",
         "value": "Tutorials on Youtube"
     },
-    ".contacts__col.communication .contacts__title": "Contact us:",
-    "a[aria-label='Privacy Policy']": "Privacy policy",
-    "a[aria-label='Terms and Conditions']": "Terms and conditions",
-    "a[aria-label='Refund Policy']": "Refund policy"
+    ".contacts__col.communication .contacts__title": "Contact Us:",
+    "a[aria-label='Privacy Policy']": "Privacy Policy",
+    "a[aria-label='Terms and Conditions']": "Terms and Conditions",
+    "a[aria-label='Refund Policy']": "Refund Policy"
 }
